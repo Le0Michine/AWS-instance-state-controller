@@ -10,7 +10,7 @@ Shows list of available AWS EC2 instances, can start/stop instances
 </td>
 
 <td>
-<img src="./Screencaptures/Start.png" />
+<img src="./Screencaptures/start.png" />
 </td>
 
 <td>
