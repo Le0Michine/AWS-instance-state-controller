@@ -13,6 +13,9 @@ Shows list of available AWS EC2 instances, can start/stop instances
 <img src="./Screencaptures/start.png" />
 </td>
 
+</tr>
+<tr>
+
 <td>
 <img src="./Screencaptures/Pending.png" />
 </td>
