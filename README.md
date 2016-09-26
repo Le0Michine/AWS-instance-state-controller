@@ -1,3 +1,26 @@
 # AWS-instance-state-controller
 Shows list of available AWS EC2 instances, can start/stop instances
 
+<table>
+
+<tr>
+
+<td>
+<img src="./Screencaptures/1.png" />
+</td>
+
+<td>
+<img src="./Screencaptures/Start.png" />
+</td>
+
+<td>
+<img src="./Screencaptures/Pending.png" />
+</td>
+
+<td>
+<img src="./Screencaptures/Stop.png" />
+</td>
+
+</tr>
+
+</table>
